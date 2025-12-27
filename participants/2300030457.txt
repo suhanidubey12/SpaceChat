@@ -1,0 +1,6 @@
+Name: N Satish
+Roll Number: 2300030457
+Hobbies: Competitive programming, running, learning backend systems, exploring open-source projects
+GitHub ID: SATII2004
+Tech Parent: Data Engineering & Backend Development
+Favorite Society: Coding Club / Technical Society
