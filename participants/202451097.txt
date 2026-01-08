@@ -1,0 +1,6 @@
+Name: Yukta
+Roll Number: 202451097
+Hobbies: coding, dancing, reading
+Github ID: Yuk-bot
+Tech Parent: AI/ML
+Favorite Society: Coding Club
